@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: gray;
+   
+}
+.container{
+    
+    margin: 0 auto;
+    top: 100px;
+    padding: 50px;
+    text-align: center;
+    width: 300px;
+    background-color: white;
+    border-radius: 10px;
+}
